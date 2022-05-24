@@ -1,0 +1,11 @@
+@import "fonts";
+
+body {
+    // необходимо указать нужный font-family 
+    // font-family: CormorantUpright (например);
+    // font-size: 50px (например);
+    background: #000;
+    span{
+        color: red;
+    }
+}
